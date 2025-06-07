@@ -29,7 +29,6 @@ clock.
 |--------------------------------------|
 | ![Chat GPT](screenshots/ChatGPT.png) | 
 
-> Make sure to place your screenshots inside a `screenshots` folder in the root directory.
 
 ---
 
