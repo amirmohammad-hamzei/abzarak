@@ -31,7 +31,6 @@ It features a modern graphical interface and includes modules such as music play
 
 ```bash
 git clone https://github.com/amirmohammad-hamzei/abzarak.git
-cd abzarak
 pip install -r requirements.txt
 python main.py
 ````
@@ -54,10 +53,6 @@ python main.py
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 📬 Contact
-
-For questions or suggestions, feel free to reach out via [email](mailto:you@example.com).
 
 ```
 
