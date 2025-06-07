@@ -10,9 +10,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/abzarak/abzarak.svg?style=social)](https://github.com/abzarak/abzarak/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/abzarak/abzarak.svg?style=social)](https://github.com/abzarak/abzarak/pulls)
 
-حتماً! در ادامه نسخه‌ی انگلیسی و تمیز شده‌ی `README.md` برای پروژه‌ی شما (ساخته‌شده با **PySide6**) آماده است، با حذف بخش "مشارکت":
 
----
 
 ````markdown
 # 📱 Abzarak
