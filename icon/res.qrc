@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>font_awesome/solid/sun.png</file>
+    <file>material_design/pause_circle_outline.png</file>
+    <file>../temp_image.jpg</file>
+    <file>font_awesome/solid/image.png</file>
+    <file>font_awesome/regular/window-restore.png</file>
+    <file>feather/square.png</file>
+    <file>feather/volume-1.png</file>
+    <file>material_design/play_circle_outline.png</file>
+    <file>font_awesome/solid/robot.png</file>
+    <file>feather/window_grip.png</file>
+    <file>feather/window_close.png</file>
+    <file>feather/window_minimize.png</file>
+    <file>font_awesome/regular/square.png</file>
+    <file>material_design/settings.png</file>
+    <file>font_awesome/solid/music.png</file>
+    <file>material_design/home.png</file>
+    <file>feather/menu.png</file>
+  </qresource>
+</RCC>
