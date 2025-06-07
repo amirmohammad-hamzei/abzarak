@@ -1,10 +1,8 @@
-# abzarak
-
-
 # 📱 Abzarak
 
 **Abzarak** is a multi-purpose desktop tool developed with PySide6.  
-It features a modern graphical interface and includes modules such as music playback, weather display, and a digital clock.
+It features a modern graphical interface and includes modules such as music playback, weather display, and a digital
+clock.
 
 ---
 
@@ -19,9 +17,17 @@ It features a modern graphical interface and includes modules such as music play
 
 ## 📸 Screenshots
 
-| Main Window |
-|-------------|
-| ![Main Window](screenshots/main_window.png) |
+| Home                          |
+|-------------------------------|
+| ![Home](screenshots/Home.png) | 
+
+| Music Player                           |
+|----------------------------------------|
+| ![Music Player](screenshots/Music.png) | 
+
+| Chat GPT                             |
+|--------------------------------------|
+| ![Chat GPT](screenshots/ChatGPT.png) | 
 
 > Make sure to place your screenshots inside a `screenshots` folder in the root directory.
 
