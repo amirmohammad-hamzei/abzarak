@@ -1,7 +1,6 @@
 # abzarak
 
 
-````markdown
 # 📱 Abzarak
 
 **Abzarak** is a multi-purpose desktop tool developed with PySide6.  
